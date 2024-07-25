@@ -1,1 +1,3 @@
 # Stop_Watch
+
+This project is a simple stopwatch application built with HTML, CSS, and JavaScript. The HTML provides the structure, displaying hours, minutes, seconds, and milliseconds, along with Start, Stop, and Reset buttons. CSS styles the interface using Google Fonts (Poppins) and custom colors for a modern look. JavaScript handles the stopwatch functionality, including time incrementing and button actions. The Start button begins the timer, the Stop button pauses it, and the Reset button clears the time. The design is responsive and user-friendly, featuring a clean layout and distinct button colors for easy interaction.
